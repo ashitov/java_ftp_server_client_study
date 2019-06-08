@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphClient_jar</output-path>
+    <root id="archive" name="GraphClient.jar">
+      <element id="module-output" name="GraphClient" />
+    </root>
+  </artifact>
+</component>
